@@ -1,9 +1,9 @@
-SELECT name, born 
+SELECT name, (2022 - born) AS age 
 FROM people 
 WHERE 
     born >= 1900 AND 
     died IS NULL 
 ORDER BY 
-    born ASC, 
+    age DESC, 
     name ASC 
 LIMIT 20;
