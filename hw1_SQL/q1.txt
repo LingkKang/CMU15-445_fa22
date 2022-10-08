@@ -1,0 +1,12 @@
+language
+--------
+        
+af      
+ar      
+az      
+be      
+bg      
+bn      
+bs      
+ca      
+cmn     
