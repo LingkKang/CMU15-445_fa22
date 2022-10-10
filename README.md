@@ -7,3 +7,7 @@
 [Homework 1 SQL](./hw1_SQL/) with SQLite 3.39.3
 
 The origional [imdb.db](https://15445.courses.cs.cmu.edu/fall2022/files/imdb-cmudb2022.db.gz) database file was not included, since it exceeds GitHub file size restriction of 100MB. 
+
+## Projects 
+
+According to course instructor, all projects regarding [BusTub](https://github.com/cmu-db/bustub) should not be posted publicly. 
