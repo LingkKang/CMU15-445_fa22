@@ -9,3 +9,7 @@ If the table name is a keyword in SQL (e.g., `Order` in Q1), just wrap them with
 ## Q3
 
 `IIF` function work just like `if` statement. 
+
+## Q4
+
+Use `CAST` function to convert datatype into `REAL` number. Otherwise, SQLite do integer division for two integers by default. 
