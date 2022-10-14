@@ -13,3 +13,7 @@ If the table name is a keyword in SQL (e.g., `Order` in Q1), just wrap them with
 ## Q4
 
 Use `CAST` function to convert datatype into `REAL` number. Otherwise, SQLite do integer division for two integers by default. 
+
+## Q5
+
+Difficult to understand the last column. 

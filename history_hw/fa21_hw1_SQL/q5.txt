@@ -1,0 +1,8 @@
+Beverages|12|37.98|4.5|263.5
+Condiments|12|23.06|10|43.9
+Confections|13|25.16|9.2|81
+Dairy Products|10|28.73|2.5|55
+Grains/Cereals|7|20.25|7|38
+Meat/Poultry|6|54.01|7.45|123.79
+Produce|5|32.37|10|53
+Seafood|12|20.68|6|62.5
