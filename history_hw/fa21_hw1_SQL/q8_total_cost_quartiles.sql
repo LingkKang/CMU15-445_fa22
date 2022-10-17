@@ -7,8 +7,6 @@ WITH
             OrderDetail
         GROUP BY
             OrderId
-        -- ORDER BY
-        --     Order_Exp DESC
     ),
 
     Exp_and_Cust AS (
