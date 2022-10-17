@@ -1,9 +1,9 @@
-Chop-suey Chinese|Chop
-HILARION-Abastos|HILARION
-GROSELLA-Restaurante|GROSELLA
-QUICK-Stop|QUICK
-LILA-Supermercado|LILA
-Hungry Owl All-Night Grocers|Hungry Owl All
-Save-a-lot Markets|Save
 Bottom-Dollar Markets|Bottom
+Chop-suey Chinese|Chop
+GROSELLA-Restaurante|GROSELLA
+HILARION-Abastos|HILARION
+Hungry Owl All-Night Grocers|Hungry Owl All
+LILA-Supermercado|LILA
 LINO-Delicateses|LINO
+QUICK-Stop|QUICK
+Save-a-lot Markets|Save

@@ -6,4 +6,6 @@ SELECT DISTINCT
         INSTR(ShipName, '-') - 1
     )
 FROM 'Order'
-WHERE ShipName LIKE '%-%';
+WHERE ShipName LIKE '%-%'
+ORDER BY
+    ShipName ASC;
