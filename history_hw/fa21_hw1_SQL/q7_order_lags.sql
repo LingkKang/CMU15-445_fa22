@@ -3,7 +3,7 @@ WITH
         SELECT
             Id,
             OrderDate,
-            LAG(OrderDate) OVER (
+            LAG(OrderDate, 1, OrderDate) OVER (
                 ORDER BY OrderDate
             ) previous_date
         FROM
