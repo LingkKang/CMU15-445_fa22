@@ -9,8 +9,8 @@ WITH
             'Order'
         JOIN
             OrderDetail ON 'Order'.Id = OrderDetail.OrderId
-        WHERE
-            ProductId % 8 = 1
+        -- WHERE
+            -- ProductId % 8 = 1
         GROUP BY
             ProductId
 )
@@ -25,5 +25,7 @@ JOIN
     CTE_A ON Customer.Id = CTE_A.CustomerId
 JOIN
     Product ON Product.Id = CTE_A.ProductId
+WHERE
+    Discontinued != 0
 ORDER BY
     ProductName ASC;

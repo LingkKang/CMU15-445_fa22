@@ -1,10 +1,8 @@
 Alice Mutton|Consolidated Holdings|Elizabeth Brown
-Chai|Consolidated Holdings|Elizabeth Brown
-Geitost|Suprêmes délices|Pascale Cartrain
-Jack's New England Clam Chowder|Hanari Carnes|Mario Pontes
-Louisiana Fiery Hot Pepper Sauce|Hanari Carnes|Mario Pontes
-Maxilaku|Hanari Carnes|Mario Pontes
+Chef Anton's Gumbo Mix|Piccolo und mehr|Georg Pipps
+Guaraná Fantástica|Piccolo und mehr|Georg Pipps
 Mishi Kobe Niku|Old World Delicatessen|Rene Phillips
-NuNuCa Nuß-Nougat-Creme|Consolidated Holdings|Elizabeth Brown
-Ravioli Angelo|Victuailles en stock|Mary Saveley
-Röd Kaviar|Piccolo und mehr|Georg Pipps
+Perth Pasties|Piccolo und mehr|Georg Pipps
+Rössle Sauerkraut|Piccolo und mehr|Georg Pipps
+Singaporean Hokkien Fried Mee|Vins et alcools Chevalier|Paul Henriot
+Thüringer Rostbratwurst|Piccolo und mehr|Georg Pipps

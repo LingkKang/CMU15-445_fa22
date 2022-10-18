@@ -17,3 +17,7 @@ Use `CAST` function to convert datatype into `REAL` number. Otherwise, SQLite do
 ## Q5
 
 Difficult to understand the last column. 
+
+## Q6 
+
+Mis-understood question. There exists schema named `Discontinued` in table `Product`. And when `Discontinued` is not equal to `0` (i.e., `Discontinued = 1`), it is discontinued products.
