@@ -25,3 +25,9 @@ Mis-understood question. There exists schema named `Discontinued` in table `Prod
 ## Q7
 
 `LAG()` function takes in 3 arguments: column-name, number of lag behind (`1` by default) and plug-in for first row (`NULL` by default), respectively. 
+
+## Q8
+
+Mis-understood the question. **Quartiles** means use function `NTILE(4)` and the tile column should equal to `1`.
+
+Also, remeber to use `LEFT JOIN` in case of `MISSING_NAME`. Otherwise, `IFNULL()` function do not work, and `NULL` terms are discarted.

@@ -27,20 +27,20 @@ WITH
         SELECT
             CustomerId,
             Comp_Exp,
-            NTILE(10) OVER (ORDER BY Comp_Exp) Tile
+            NTILE(4) OVER (ORDER BY Comp_Exp) Tile
         FROM
             Exp_and_Cust
     )
 
 SELECT
-    IFNULL(CompanyName, 'MISSING_NAME') CompanyName,
+    IFNULL(CompanyName, 'MISSING_NAME') AS CompanyName,
     CustomerId,
     Comp_Exp
 FROM
     Quartile
-JOIN
+LEFT JOIN
     Customer ON Customer.Id = Quartile.CustomerId
 WHERE
     Tile = 1
 ORDER BY
-    Comp_Exp DESC;
+    Comp_Exp ASC;
