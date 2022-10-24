@@ -1,0 +1,3 @@
+Federal Shipping|23.61
+Speedy Express|23.46
+United Package|23.44
