@@ -48,7 +48,7 @@ WITH
 
         SELECT
             CTE_C.row_num,
-            CTE_D.ProductName || ',' || CTE_C.ProductName
+            CTE_D.ProductName || ', ' || CTE_C.ProductName
         FROM
             CTE_C
         JOIN
@@ -56,7 +56,7 @@ WITH
     )
 
 SELECT
-    *
+    ProductName
 FROM
     CTE_D
 ORDER BY
